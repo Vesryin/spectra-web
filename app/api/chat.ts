@@ -102,3 +102,4 @@ export const fetchPersonalityHash =
     const res = await api.get("/personality/hash");
     return res.data;
   };
+

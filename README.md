@@ -1,4 +1,4 @@
-﻿# Spectra Web
+# Spectra Web
 
 Frontend for Spectra AI, built with Next.js 14.
 
@@ -15,3 +15,4 @@ Frontend for Spectra AI, built with Next.js 14.
    \\\
 
 3. Open [http://localhost:3000](http://localhost:3000) to see the result.
+
